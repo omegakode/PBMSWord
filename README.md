@@ -1,2 +1,2 @@
 # PBMSWord
-Microsoft Word interface definitions fro Purebasic.
+Microsoft Word interface definitions for Purebasic.
